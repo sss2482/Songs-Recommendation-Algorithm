@@ -1,0 +1,602 @@
+,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,songId,title,artist,genres,language
+0,0,0,0,0,0,0,0,Pangarap,Barbie's Cradle,rock,Filipino
+1,1,1,1,1,1,1,1,I Feel Alive,Steady Rollin,rock,English
+2,2,2,2,2,2,2,2,Poison,Bell Biv DeVoe,r&b,English
+3,3,3,3,3,3,3,3,Baby It's Cold Outside (feat. Christina Aguilera),CeeLo Green,r&b,English
+4,4,4,4,4,4,4,4,Dumb Litty,KARD,pop,English
+5,5,5,5,5,5,5,5,Soldier,James TW,r&b,English
+6,6,6,6,6,6,6,6,Satisfy You,Diddy,r&b,English
+7,7,7,7,7,7,7,7,Tender Lover,Babyface,r&b,English
+8,8,8,8,8,8,8,8,Hide Away (feat. Envy Monroe),Blasterjaxx,edm,English
+9,9,9,9,9,9,9,9,Ti volevo dedicare (feat. J-AX & Boomdabash),Rocco Hunt,r&b,Italian
+10,10,10,10,10,10,10,10,Una Vaina Loca,Fuego,latin,Spanish
+11,11,11,11,11,11,11,11,Limestone,Magic City Hippies,pop,English
+12,12,12,12,12,12,12,12,La Mordidita,Ricky Martin,latin,Spanish
+13,13,13,13,13,13,13,13,Changes,2Pac,rap,English
+14,14,14,14,14,14,14,14,Latina (feat. Maluma),Reykon,latin,Spanish
+15,15,15,15,15,15,15,15,Let Me Entertain You - Remastered 2011,Queen,rock,English
+16,16,16,16,16,16,16,16,Suga Suga,Baby Bash,r&b,English
+17,17,17,17,17,17,17,17,You Don't Know Me - Radio Edit,Jax Jones,pop,English
+18,18,18,18,18,18,18,18,Secrets,The Weeknd,r&b,English
+19,19,19,19,19,19,19,19,Me Enamoré,Jay Wheeler,latin,Spanish
+20,20,20,20,20,20,20,20,"Stand Out - From ""How to Build a Better Boy""",Sabrina Carpenter,pop,English
+21,21,21,21,21,21,21,21,Laps,Zotiyac,rap,English
+22,22,22,22,22,22,22,22,Get The Funk Out Ma Face,The Brothers Johnson,r&b,English
+23,23,23,23,23,23,23,23,Ooh,SAYMYNAME,rap,English
+24,24,24,24,24,24,24,24,La Vida Es Una (feat. Pitbull),Lil Jon,latin,Spanish
+25,25,25,25,25,25,25,25,Juke Box Hero,Foreigner,pop,English
+26,26,26,26,26,26,26,26,We Own It (Fast & Furious),2 Chainz,rap,English
+27,27,27,27,27,27,27,27,Ain't No Future In Yo' Frontin',MC Breed,rap,English
+28,28,28,28,28,28,28,28,La rebelion,Joe Arroyo,latin,Spanish
+29,29,29,29,29,29,29,29,It's You - Radio Edit,Syn Cole,pop,English
+30,30,30,30,30,30,30,30,Bongo Bong,Manu Chao,latin,English
+31,31,31,31,31,31,31,31,It Won't Stop (feat. Chris Brown) - Julian Calor Remix,Sevyn Streeter,edm,English
+32,32,32,32,32,32,32,32,Full Moon,DREAMCATCHER,edm,Estonian
+33,33,33,33,33,33,33,33,Hot,Confetti,pop,English
+34,34,34,34,34,34,34,34,Bené,PNL,r&b,French
+35,35,35,35,35,35,35,35,Shine - Kygo Remix,Benjamin Francis Leftwich,pop,English
+36,36,36,36,36,36,36,36,Don't Let It Break Your Heart - Single Edit,Louis Tomlinson,pop,English
+37,37,37,37,37,37,37,37,Been A While,Sam Feldt,pop,English
+38,38,38,38,38,38,38,38,Santa Claus Is Coming To Town,The Jackson 5,r&b,English
+39,39,39,39,39,39,39,39,Dancing On My Own - Tiësto Remix,Calum Scott,edm,English
+40,40,40,40,40,40,40,40,Phenomenal,Eminem,rap,English
+41,41,41,41,41,41,41,41,Get Get Down - Radio Edit,Merk & Kremont,edm,Polish
+42,42,42,42,42,42,42,42,Beautiful Life,Lost Frequencies,latin,English
+43,43,43,43,43,43,43,43,Suave,Tabitha,latin,Dutch
+44,44,44,44,44,44,44,44,Pegao,Wisin & Yandel,latin,Spanish
+45,45,45,45,45,45,45,45,Try,P!nk,latin,English
+46,46,46,46,46,46,46,46,Not To Much - Remastered 2016,Don Omar,latin,Spanish
+47,47,47,47,47,47,47,47,Funky Friday,Dave,rap,English
+48,48,48,48,48,48,48,48,First Love,Lost Kings,pop,English
+49,49,49,49,49,49,49,49,Alone,Lund,rap,English
+50,50,50,50,50,50,50,50,Now That We're Dead,Metallica,rock,English
+51,51,51,51,51,51,51,51,Love Sosa,Chief Keef,rap,English
+52,52,52,52,52,52,52,52,Mama Knew Love,Anthony Hamilton,r&b,English
+53,53,53,53,53,53,53,53,Generé,Bipo Montana,rap,Spanish
+54,54,54,54,54,54,54,54,Girlfriend in a Coma - 2011 Remaster,The Smiths,rock,English
+55,55,55,55,55,55,55,55,Did It Again,Lil Tecca,rap,English
+56,56,56,56,56,56,56,56,I'll Be All You'll Ever Need,Trinere,latin,English
+57,57,57,57,57,57,57,57,Talk Dirty To Me,Poison,rock,English
+58,58,58,58,58,58,58,58,Goodbye Love,Guy,r&b,English
+59,59,59,59,59,59,59,59,Morph,Twenty One Pilots,pop,English
+60,60,60,60,60,60,60,60,50 Vezes - Ao Vivo,Sorriso Maroto,edm,Portuguese
+61,61,61,61,61,61,61,61,Harlem Shake,Baauer,rap,English
+62,62,62,62,62,62,62,62,Always Gonna Say Sorry,Joakim Molitor,edm,English
+63,63,63,63,63,63,63,63,SUPREME - L'ego (feat. tha Supreme & Sfera Ebbasta),Marracash,rap,Italian
+64,64,64,64,64,64,64,64,Rattle Your Cage,Skrizzly Adams,rock,English
+65,65,65,65,65,65,65,65,Cheerleader - Felix Jaehn Remix Radio Edit,OMI,latin,English
+66,66,66,66,66,66,66,66,Why Don't You Get A Job,The Offspring,rock,English
+67,67,67,67,67,67,67,67,On the Back of Your Neck,Cienfue,pop,English
+68,68,68,68,68,68,68,68,WhatWasThat,BONES,rap,English
+69,69,69,69,69,69,69,69,Heartless (feat. Mustard),Polo G,r&b,English
+70,70,70,70,70,70,70,70,Say My Name,Lil Yachty,rap,English
+71,71,71,71,71,71,71,71,Paint My Love - 2014 Remastered Version,Michael Learns To Rock,rock,English
+72,72,72,72,72,72,72,72,Hi Life,UGK,rap,English
+73,73,73,73,73,73,73,73,This Is Our Time,WILD,pop,English
+74,74,74,74,74,74,74,74,It Runs Through Me,Tom Misch,pop,English
+75,75,75,75,75,75,75,75,Nothing Really Matters - Afrojack Remix,Mr. Probz,edm,English
+76,76,76,76,76,76,76,76,Who Are You,The Who,rock,English
+77,77,77,77,77,77,77,77,I Want You To Want Me,Cheap Trick,rock,English
+78,78,78,78,78,78,78,78,I Heard It Through The Grapevine - Single Version,Creedence Clearwater Revival,rock,English
+79,79,79,79,79,79,79,79,Without You - Remastered,Harry Nilsson,r&b,English
+80,80,80,80,80,80,80,80,Raise Up,Petey Pablo,rap,English
+81,81,81,81,81,81,81,81,Compound,Trellion,rap,English
+82,82,82,82,82,82,82,82,Get the Party Started,P!nk,pop,English
+83,83,83,83,83,83,83,83,Stray Lines,Mishaal,edm,English
+84,84,84,84,84,84,84,84,Paloma Negra,Chavela Vargas,r&b,Spanish
+85,85,85,85,85,85,85,85,On Fire,Carmada,pop,English
+86,86,86,86,86,86,86,86,Tequila,Juanes,latin,Spanish
+87,87,87,87,87,87,87,87,Ella Se Fue,Kinto Sol,latin,Spanish
+88,88,88,88,88,88,88,88,Who Needs You - Remastered 2011,Queen,rock,English
+89,89,89,89,89,89,89,89,7/11,Beyoncé,pop,English
+90,90,90,90,90,90,90,90,Getting Away With Murder,Papa Roach,rock,English
+91,91,91,91,91,91,91,91,Smile - Years Remix,Galantis,edm,English
+92,92,92,92,92,92,92,92,My Nigga,YG,pop,English
+93,93,93,93,93,93,93,93,Don't Look Down (feat. Blake Young),CASS,edm,English
+94,94,94,94,94,94,94,94,Unity,Dimitri Vegas & Like Mike,edm,English
+95,95,95,95,95,95,95,95,pete davidson,Ariana Grande,pop,English
+96,96,96,96,96,96,96,96,This Is How We Party (with Icona Pop),R3HAB,edm,English
+97,97,97,97,97,97,97,97,Tokyo,Lianne La Havas,r&b,English
+98,98,98,98,98,98,98,98,Corduroy Dreams,Rex Orange County,pop,English
+99,99,99,99,99,99,99,99,Hit That Jive,Gramatik,edm,English
+100,100,100,100,100,100,100,100,Nobody (feat. Athena Cage) - Single Version; 2007 Remaster,Keith Sweat,r&b,English
+101,101,101,101,101,101,101,101,Go to Hell,Alice Cooper,rock,English
+102,102,102,102,102,102,102,102,Paparazzi,Lady Gaga,pop,English
+103,103,103,103,103,103,103,103,Jet Airliner - Remastered 2017,Steve Miller Band,rock,English
+104,104,104,104,104,104,104,104,Say It,Flume,rap,English
+105,105,105,105,105,105,105,105,Faith - Radio Edit,Blasterjaxx,edm,English
+106,106,106,106,106,106,106,106,Chloe (You're the One I Want),Emblem3,pop,English
+107,107,107,107,107,107,107,107,Save My Night - BlasterJaxx Remix,Armin van Buuren,edm,English
+108,108,108,108,108,108,108,108,Where I Won't Be Found,Seven Lions,edm,English
+109,109,109,109,109,109,109,109,She Don't Give a Fo,Duki,rap,Spanish
+110,110,110,110,110,110,110,110,Go Getta,Jeezy,rap,English
+111,111,111,111,111,111,111,111,Payback - Original Mix,Sandro Silva,edm,English
+112,112,112,112,112,112,112,112,melancholyism.,Super Whatevr,pop,English
+113,113,113,113,113,113,113,113,Slow Motion,Color Me Badd,r&b,English
+114,114,114,114,114,114,114,114,In Between,Beartooth,rock,English
+115,115,115,115,115,115,115,115,BARRACA (feat. MC Pikachu),Garmiani,edm,English
+116,116,116,116,116,116,116,116,Watch Me Dance,Tom Misch,r&b,English
+117,117,117,117,117,117,117,117,Baila Conmigo,Manuel Turizo,latin,Spanish
+118,118,118,118,118,118,118,118,California,DJ Quik,rap,English
+119,119,119,119,119,119,119,119,Switch,Afrojack,pop,English
+120,120,120,120,120,120,120,120,Stranger,MOTHXR,pop,English
+121,121,121,121,121,121,121,121,How Ya Like Me Now - Longer Version,Kool Moe Dee,r&b,English
+122,122,122,122,122,122,122,122,Hoops - Acoustic,JONES,r&b,English
+123,123,123,123,123,123,123,123,Starstruck,Christopher Wilde,pop,English
+124,124,124,124,124,124,124,124,No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,rap,English
+125,125,125,125,125,125,125,125,You Don't Know,Psalm Trees,rap,English
+126,126,126,126,126,126,126,126,CAN YOU HEAR ME NOW?,Bishop Briggs,rock,English
+127,127,127,127,127,127,127,127,Encanto,Don Omar,latin,Spanish
+128,128,128,128,128,128,128,128,Down 4 Whateva,Nuttin' Nyce,r&b,English
+129,129,129,129,129,129,129,129,Cemetry Gates - 2011 Remaster,The Smiths,rock,English
+130,130,130,130,130,130,130,130,I Don't Wanna,Aaliyah,r&b,English
+131,131,131,131,131,131,131,131,Die To Live,Volbeat,rock,English
+132,132,132,132,132,132,132,132,The Air Near My Fingers,The White Stripes,rock,English
+133,133,133,133,133,133,133,133,Only for the Weak,In Flames,rock,English
+134,134,134,134,134,134,134,134,First World Problemz / Nobody Carez,Brent Faiyaz,r&b,English
+135,135,135,135,135,135,135,135,I Can't Wait,Nu Shooz,rock,English
+136,136,136,136,136,136,136,136,I Dare You,The xx,pop,English
+137,137,137,137,137,137,137,137,Fake Plastic Trees,Radiohead,rock,English
+138,138,138,138,138,138,138,138,Marvins Room,Drake,r&b,English
+139,139,139,139,139,139,139,139,Beautiful Trauma - MOTi Remix,P!nk,edm,English
+140,140,140,140,140,140,140,140,Centuries,Fall Out Boy,pop,English
+141,141,141,141,141,141,141,141,Dancewitme,Maxwell,r&b,English
+142,142,142,142,142,142,142,142,Grateful (Neon Feather Remix),Cade Thompson,pop,English
+143,143,143,143,143,143,143,143,Fvck Luv,Duki,rap,Spanish
+144,144,144,144,144,144,144,144,Congratulations - Don Diablo VIP Mix,Don Diablo,edm,English
+145,145,145,145,145,145,145,145,This Is Love,PJ Harvey,rock,English
+146,146,146,146,146,146,146,146,"Wow, I'm Not Crazy",AJR,pop,English
+147,147,147,147,147,147,147,147,Where Angels Fear To Tread - Single Version,Mustasch,rock,English
+148,148,148,148,148,148,148,148,Northern Sky (feat. Kb),Capital Kings,edm,English
+149,149,149,149,149,149,149,149,Jungli Sher,DIVINE,rap,Indonesian
+150,150,150,150,150,150,150,150,No Rest for the Wicked - Robin Schulz Remix Edit,Lykke Li,pop,English
+151,151,151,151,151,151,151,151,Azzlack Harami,Milonair,rap,German
+152,152,152,152,152,152,152,152,April Showers,Proleter,edm,English
+153,153,153,153,153,153,153,153,Hot In Herre,Nelly,rap,English
+154,154,154,154,154,154,154,154,Rearranged,Killstation,rap,English
+155,155,155,155,155,155,155,155,No Stylist,French Montana,rap,English
+156,156,156,156,156,156,156,156,Live And Let Die,Guns N' Roses,rock,English
+157,157,157,157,157,157,157,157,Ocean Drive - Michael Calfan Remix,Duke Dumont,edm,English
+158,158,158,158,158,158,158,158,Legends Never Die (feat. Against the Current),League of Legends,edm,English
+159,159,159,159,159,159,159,159,Da Graveyard,Big L,rap,English
+160,160,160,160,160,160,160,160,Bored,Billie Eilish,r&b,English
+161,161,161,161,161,161,161,161,Lying We're Fine,Leonell Cassio,edm,English
+162,162,162,162,162,162,162,162,I'm Dreamin',Christopher Williams,r&b,English
+163,163,163,163,163,163,163,163,This World Is Sick,IC3PEAK,rap,English
+164,164,164,164,164,164,164,164,Nevermore - Remastered 2011,Queen,rock,English
+165,165,165,165,165,165,165,165,Certainly - Flipped It,Erykah Badu,r&b,English
+166,166,166,166,166,166,166,166,Don't You Want Me,Jody Watley,r&b,English
+167,167,167,167,167,167,167,167,I'm a Mess,Bebe Rexha,pop,English
+168,168,168,168,168,168,168,168,Ready Set (feat. Big Sean),Kash Doll,rap,English
+169,169,169,169,169,169,169,169,Roll With Me (feat. Shungudzo) - Friend Within Remix,Bantu,edm,English
+170,170,170,170,170,170,170,170,Moved On,Redlight Blue,pop,English
+171,171,171,171,171,171,171,171,I See Your Smile,Gloria Estefan,latin,English
+172,172,172,172,172,172,172,172,Motownphilly,Boyz II Men,r&b,English
+173,173,173,173,173,173,173,173,Te Vi,Piso 21,latin,Spanish
+174,174,174,174,174,174,174,174,Goodness Gracious - The Chainsmokers Extended Remix,Ellie Goulding,edm,English
+175,175,175,175,175,175,175,175,Krantenwijk,Lil Kleine,pop,Dutch
+176,176,176,176,176,176,176,176,Call You Mine,The Chainsmokers,pop,English
+177,177,177,177,177,177,177,177,Untouchable,Tritonal,edm,English
+178,178,178,178,178,178,178,178,Déjame Volar,Aleman,rap,Spanish
+179,179,179,179,179,179,179,179,Feel Me (feat. Kanye West),Tyga,rap,English
+180,180,180,180,180,180,180,180,Andar Conmigo,Julieta Venegas,latin,Spanish
+181,181,181,181,181,181,181,181,"Camelot (feat. Yo Gotti, BlocBoy JB & Moneybagg Yo) - Remix",NLE Choppa,rap,English
+182,182,182,182,182,182,182,182,Nothin' But The Cavi Hit,Mack 10,rap,English
+183,183,183,183,183,183,183,183,Alladat,Jarren Benton,r&b,English
+184,184,184,184,184,184,184,184,Losing It,FISHER,edm,Filipino
+185,185,185,185,185,185,185,185,1999,Charli XCX,pop,English
+186,186,186,186,186,186,186,186,Howling,RY X,pop,English
+187,187,187,187,187,187,187,187,48H (feat. Sfera Ebbasta),Izi,rap,Italian
+188,188,188,188,188,188,188,188,Hard To Handle,The Black Crowes,rock,English
+189,189,189,189,189,189,189,189,Rhiannon,Fleetwood Mac,rock,English
+190,190,190,190,190,190,190,190,"If You Leave - From ""Pretty In Pink""",Orchestral Manoeuvres In The Dark,rock,English
+191,191,191,191,191,191,191,191,Stand By (feat. Rudimental) [#CWC19],LORYN,pop,English
+192,192,192,192,192,192,192,192,Forget,Twin Shadow,pop,English
+193,193,193,193,193,193,193,193,Make Me Feel Better - Klingande Remix,Alex Adair,latin,Norwegian
+194,194,194,194,194,194,194,194,I Adore Mi Amor,Color Me Badd,r&b,English
+195,195,195,195,195,195,195,195,Panama - 2015 Remaster,Van Halen,rock,English
+196,196,196,196,196,196,196,196,I Need Your Love (feat. Ellie Goulding),Calvin Harris,pop,English
+197,197,197,197,197,197,197,197,It's Goin' Down (feat. Nitti),Yung Joc,rap,English
+198,198,198,198,198,198,198,198,Ich Binnezz,Bonez MC,rap,German
+199,199,199,199,199,199,199,199,Conte a Todos,Sango,pop,German
+200,200,200,200,200,200,200,200,Lucifer,JAY-Z,rap,English
+201,201,201,201,201,201,201,201,If I Ever Lose My Faith In You,Sting,rock,English
+202,202,202,202,202,202,202,202,Middle Of The Night,MJG,rap,English
+203,203,203,203,203,203,203,203,Bloom,bLAck pARty,r&b,English
+204,204,204,204,204,204,204,204,Bring It On,Geto Boys,rap,English
+205,205,205,205,205,205,205,205,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,edm,English
+206,206,206,206,206,206,206,206,I Go Blind,Hootie & The Blowfish,rock,English
+207,207,207,207,207,207,207,207,Miss You Much,Janet Jackson,r&b,English
+208,208,208,208,208,208,208,208,Let Your Love Flow,The Bellamy Brothers,rock,English
+209,209,209,209,209,209,209,209,Let It Happen,Tame Impala,pop,English
+210,210,210,210,210,210,210,210,Best Life,Danny Brown,r&b,English
+211,211,211,211,211,211,211,211,Hall & Oates,Satchmode,pop,English
+212,212,212,212,212,212,212,212,Talk - Alle Farben Remix,Khalid,pop,English
+213,213,213,213,213,213,213,213,Popeye,MC Igu,rap,Portuguese
+214,214,214,214,214,214,214,214,Bad (feat. Vassy) - Radio Edit,David Guetta,edm,English
+215,215,215,215,215,215,215,215,The Way,Ariana Grande,pop,English
+216,216,216,216,216,216,216,216,Palmar,Caloncho,pop,Spanish
+217,217,217,217,217,217,217,217,No Te Quiero Perder,Sabino,rap,Spanish
+218,218,218,218,218,218,218,218,Headlights (feat. Ilsey),Robin Schulz,pop,English
+219,219,219,219,219,219,219,219,Golden Years - M-Phazes Remix,Ruel,pop,English
+220,220,220,220,220,220,220,220,Lose Your Soul,Jelly Roll,rap,English
+221,221,221,221,221,221,221,221,Ride Wit Me,Nelly,rap,English
+222,222,222,222,222,222,222,222,Fuoh,Zotiyac,rap,English
+223,223,223,223,223,223,223,223,Tunnel of Love (Intro: The Carousel Waltz),Dire Straits,rock,English
+224,224,224,224,224,224,224,224,We Don't Talk Anymore,Charlie Puth,pop,English
+225,225,225,225,225,225,225,225,Russian Radio,Red Flag,rock,English
+226,226,226,226,226,226,226,226,MIDDLE OF THE NIGHT,Monsta X,pop,English
+227,227,227,227,227,227,227,227,Safari,J Balvin,latin,Spanish
+228,228,228,228,228,228,228,228,"i hate u, i love u (feat. olivia o'brien) - Deepend Remix",gnash,edm,English
+229,229,229,229,229,229,229,229,Sektion (feat. Branco & Gilli),Benny Jamz,rap,Danish
+230,230,230,230,230,230,230,230,Bon Bon Chocolat,EVERGLOW,pop,Korean
+231,231,231,231,231,231,231,231,Shotgun - Quintino Remix,Yellow Claw,edm,English
+232,232,232,232,232,232,232,232,Drew Barrymore,SZA,r&b,English
+233,233,233,233,233,233,233,233,In Only Seven Days - Remastered 2011,Queen,rock,English
+234,234,234,234,234,234,234,234,Booty Loose (feat. Fly Boi Keno),Party Favor,edm,English
+235,235,235,235,235,235,235,235,Fire Fly,Childish Gambino,r&b,English
+236,236,236,236,236,236,236,236,Adrenalize,In This Moment,rock,English
+237,237,237,237,237,237,237,237,Poison,Bell Biv DeVoe,r&b,English
+238,238,238,238,238,238,238,238,You Really Got Me - 2004 Remaster,Van Halen,rock,English
+239,239,239,239,239,239,239,239,With You - Frank Walker Remix,Tyler Shaw,pop,English
+240,240,240,240,240,240,240,240,Peachy Keen,L Devine,pop,English
+241,241,241,241,241,241,241,241,Trenches,Pop Evil,rock,English
+242,242,242,242,242,242,242,242,Swish,Josh Stanley,pop,English
+243,243,243,243,243,243,243,243,Liar,Camila Cabello,pop,English
+244,244,244,244,244,244,244,244,Safety (feat. DJ Snake) - Dark Heart Burn Mix,GASHI,edm,English
+245,245,245,245,245,245,245,245,The Whole World (feat. Killer Mike),OutKast,rap,English
+246,246,246,246,246,246,246,246,Guardia Civil,Reda Rwena,rap,German
+247,247,247,247,247,247,247,247,Calabria - Firebeatz Remix,Rune RK,edm,English
+248,248,248,248,248,248,248,248,Best Rapper Alive,Lil Wayne,rap,English
+249,249,249,249,249,249,249,249,Always on My Mind,Pet Shop Boys,pop,English
+250,250,250,250,250,250,250,250,Magenta (prod. Auer),Pezet,rap,Polish
+251,251,251,251,251,251,251,251,Fortunate Son,Creedence Clearwater Revival,rock,English
+252,252,252,252,252,252,252,252,Chillax,Alkilados,latin,Spanish
+253,253,253,253,253,253,253,253,Sleepy Eyes,Elohim,rap,English
+254,254,254,254,254,254,254,254,In Between Days - 2006 Remaster,The Cure,rock,English
+255,255,255,255,255,255,255,255,Got To Get It,Sisqo,r&b,English
+256,256,256,256,256,256,256,256,Inocente,Myke Towers,latin,Spanish
+257,257,257,257,257,257,257,257,I Wanna Sex You Up,Color Me Badd,r&b,English
+258,258,258,258,258,258,258,258,Million Years,Gareth Emery,edm,English
+259,259,259,259,259,259,259,259,Make Believe,Kenny Lattimore,r&b,English
+260,260,260,260,260,260,260,260,Go Your Own Way - 2004 Remaster,Fleetwood Mac,rock,English
+261,261,261,261,261,261,261,261,He Could Be the One,Hannah Montana,pop,English
+262,262,262,262,262,262,262,262,Drop In the Ocean,OMI,latin,English
+263,263,263,263,263,263,263,263,The Second Brightest Star,Big Big Train,rock,English
+264,264,264,264,264,264,264,264,Summer on You,PRETTYMUCH,r&b,English
+265,265,265,265,265,265,265,265,Mine,Mark Mendy,edm,English
+266,266,266,266,266,266,266,266,Living in Oblivion,Anything Box,rock,English
+267,267,267,267,267,267,267,267,Dream On,Aerosmith,rock,English
+268,268,268,268,268,268,268,268,High Fashion (feat. Mustard),Roddy Ricch,rap,English
+269,269,269,269,269,269,269,269,22,TINI,latin,Spanish
+270,270,270,270,270,270,270,270,Keep Watch,Wu-Tang Clan,rap,English
+271,271,271,271,271,271,271,271,Blame,Calvin Harris,pop,English
+272,272,272,272,272,272,272,272,Do Me Like A Drug,Emmanuel Franco,pop,English
+273,273,273,273,273,273,273,273,Good as Hell (feat. Ariana Grande) - Remix,Lizzo,pop,English
+274,274,274,274,274,274,274,274,Nasty,Janet Jackson,rock,English
+275,275,275,275,275,275,275,275,The Beard Song,Demun Jones,rap,English
+276,276,276,276,276,276,276,276,Siempre Peligroso (feat. Fermin IV Caballero) - feat. Fermin IV Caballero of Control Machete,Cypress Hill,rap,Spanish
+277,277,277,277,277,277,277,277,I Was Made For Lovin' You,KISS,rock,English
+278,278,278,278,278,278,278,278,Own It (feat. Ed Sheeran & Burna Boy),Stormzy,rap,English
+279,279,279,279,279,279,279,279,Dr. Beat,Gloria Estefan,latin,English
+280,280,280,280,280,280,280,280,Busy Earnin',Jungle,pop,English
+281,281,281,281,281,281,281,281,Control,VNV Nation,pop,English
+282,282,282,282,282,282,282,282,Cupid Shuffle,Cupid,rap,English
+283,283,283,283,283,283,283,283,Ice,Ecko,rap,Spanish
+284,284,284,284,284,284,284,284,Por Contarle Los Secretos,Jon Z,rap,Spanish
+285,285,285,285,285,285,285,285,Lil Mama,Miles Wesley,rap,English
+286,286,286,286,286,286,286,286,Lower,TENDER,pop,English
+287,287,287,287,287,287,287,287,Beast Of Burden - Remastered,The Rolling Stones,rock,English
+288,288,288,288,288,288,288,288,Drown,Theory of a Deadman,rock,English
+289,289,289,289,289,289,289,289,Not Backing Down,Blanca,edm,English
+290,290,290,290,290,290,290,290,Get Free (feat. Amber Coffman),Major Lazer,pop,English
+291,291,291,291,291,291,291,291,Why'd You Only Call Me When You're High?,Arctic Monkeys,rock,English
+292,292,292,292,292,292,292,292,Sass Cafe,Josh Stanley,pop,English
+293,293,293,293,293,293,293,293,Hello Hello,Fickle Friends,pop,English
+294,294,294,294,294,294,294,294,Dare You - Radio Edit,Hardwell,edm,English
+295,295,295,295,295,295,295,295,Real Eyes,Fili,pop,English
+296,296,296,296,296,296,296,296,FRIENDS,Marshmello,pop,English
+297,297,297,297,297,297,297,297,Me Myself & I,Jhaye,r&b,English
+298,298,298,298,298,298,298,298,All Day All Night,Bobby Brown,r&b,English
+299,299,299,299,299,299,299,299,Celebration (feat. Ky-Mani Marley),Maffio,latin,English
+300,300,300,300,300,300,300,300,Ready for Love - 2015 Remaster,Bad Company,rock,English
+301,301,301,301,301,301,301,301,Good Nights (feat. Mascolo),Whethan,pop,English
+302,302,302,302,302,302,302,302,Where Do We Go,Solange,r&b,English
+303,303,303,303,303,303,303,303,Back In Black,AC/DC,pop,English
+304,304,304,304,304,304,304,304,Little Lies,Fleetwood Mac,rock,English
+305,305,305,305,305,305,305,305,Urgent,Foreigner,rock,English
+306,306,306,306,306,306,306,306,California,Delinquent Habits,latin,English
+307,307,307,307,307,307,307,307,Dogs of War,Blues Saraceno,rap,English
+308,308,308,308,308,308,308,308,Say It's Gonna Rain,Will To Power,latin,English
+309,309,309,309,309,309,309,309,Sway - Chainsmokers Remix,Anna of the North,pop,English
+310,310,310,310,310,310,310,310,Million Pieces - M-22 Remix,Bastille,pop,English
+311,311,311,311,311,311,311,311,Lebensborn - Update,[:SITD:],pop,English
+312,312,312,312,312,312,312,312,Triste,Kase.O,r&b,Spanish
+313,313,313,313,313,313,313,313,Drop Your Love (feat. Dirty Radio),Young Franco,r&b,English
+314,314,314,314,314,314,314,314,The Hunted (feat. Sully Erna),Saint Asonia,rock,English
+315,315,315,315,315,315,315,315,I Follow Rivers,Lykke Li,pop,English
+316,316,316,316,316,316,316,316,"Axel F - From ""Beverly Hills Cop"" Soundtrack",Harold Faltermeyer,rock,Romanian
+317,317,317,317,317,317,317,317,She's Long Gone,The Black Keys,rap,English
+318,318,318,318,318,318,318,318,All In My Head,Tori Kelly,r&b,English
+319,319,319,319,319,319,319,319,Sorry,Justin Bieber,pop,English
+320,320,320,320,320,320,320,320,Sleep Talking,Charlotte Lawrence,pop,English
+321,321,321,321,321,321,321,321,Youth (Qrion Remix) [feat. Satica],Manila Killa,pop,English
+322,322,322,322,322,322,322,322,Nudies,24hrs,rap,English
+323,323,323,323,323,323,323,323,Looking Back - Walden Remix,The Only,edm,English
+324,324,324,324,324,324,324,324,Can't C Me,2Pac,rap,English
+325,325,325,325,325,325,325,325,Let Me Roll It - Remastered 2010,Paul McCartney,rock,English
+326,326,326,326,326,326,326,326,Cosmic Dark,Pitchback,edm,English
+327,327,327,327,327,327,327,327,You're Makin' Me High,Toni Braxton,r&b,English
+328,328,328,328,328,328,328,328,Ella Me Cautivo,J Balvin,latin,Spanish
+329,329,329,329,329,329,329,329,The Middle,Zedd,pop,English
+330,330,330,330,330,330,330,330,News For You,Eric Benét,r&b,English
+331,331,331,331,331,331,331,331,Big & Loud,Nick Nolan,rap,English
+332,332,332,332,332,332,332,332,ANGST II,MESSIAH!,rap,English
+333,333,333,333,333,333,333,333,Oye,TINI,latin,Spanish
+334,334,334,334,334,334,334,334,Genie in a Bottle,Campsite Dream,latin,English
+335,335,335,335,335,335,335,335,Dragostea Din Tei - Original Romanian Version,O-Zone,pop,Romanian
+336,336,336,336,336,336,336,336,Champion,Fall Out Boy,r&b,English
+337,337,337,337,337,337,337,337,This Is The Shack,Warren G,rap,English
+338,338,338,338,338,338,338,338,Sun Is Shining - W&W Remix,Axwell /\ Ingrosso,edm,English
+339,339,339,339,339,339,339,339,In Da Club,50 Cent,rap,English
+340,340,340,340,340,340,340,340,Outta My Head (with John Mayer),Khalid,latin,English
+341,341,341,341,341,341,341,341,Point of No Return,Nu Shooz,latin,English
+342,342,342,342,342,342,342,342,Pedro Navaja,Rubén Blades,latin,Spanish
+343,343,343,343,343,343,343,343,You Could Be Mine,Guns N' Roses,rock,English
+344,344,344,344,344,344,344,344,Rockstar (feat. DV8),Timmy Trumpet,edm,English
+345,345,345,345,345,345,345,345,Aprovecha (feat. Daddy Yankee),Nova y Jory,latin,Spanish
+346,346,346,346,346,346,346,346,Icky Thump,The White Stripes,rock,English
+347,347,347,347,347,347,347,347,Fre$h,Lil Whigga,rap,Spanish
+348,348,348,348,348,348,348,348,Come With Me,Shai,r&b,English
+349,349,349,349,349,349,349,349,Papaoutai,Stromae,rap,French
+350,350,350,350,350,350,350,350,UP THE SMOKE (with Offset),Stunna 4 Vegas,rap,English
+351,351,351,351,351,351,351,351,Heaven,The Blaze,edm,English
+352,352,352,352,352,352,352,352,Into You (feat. Tamia) - Radio Edit,Fabolous,r&b,English
+353,353,353,353,353,353,353,353,Melaza,Tiro De Gracia,latin,Spanish
+354,354,354,354,354,354,354,354,Tus Ojos No Me Ven - feat. Joewell y Randy,Joey Montana,latin,Spanish
+355,355,355,355,355,355,355,355,Los Olores de Tu Alma,Javiera Mena,pop,Spanish
+356,356,356,356,356,356,356,356,Don't Kill My High,Lost Kings,pop,English
+357,357,357,357,357,357,357,357,Side To Side - Slushii Remix,Ariana Grande,edm,English
+358,358,358,358,358,358,358,358,Return To Love,Andrea Bocelli,r&b,English
+359,359,359,359,359,359,359,359,Heart Of Glass - Special Mix,Blondie,rock,English
+360,360,360,360,360,360,360,360,"Uncertain Smile - Original 7"" Version 1982",The The,pop,English
+361,361,361,361,361,361,361,361,Whipping Post,The Allman Brothers Band,rock,English
+362,362,362,362,362,362,362,362,Moonlight,Gaullin,pop,English
+363,363,363,363,363,363,363,363,Break the Rules,Charli XCX,pop,English
+364,364,364,364,364,364,364,364,Good Looking,Don Omar,latin,Spanish
+365,365,365,365,365,365,365,365,This Is Why I'm Hot,MiMS,rap,English
+366,366,366,366,366,366,366,366,More,Zion,latin,Spanish
+367,367,367,367,367,367,367,367,Getaway,Tritonal,edm,English
+368,368,368,368,368,368,368,368,Digging My Own Grave,Escape the Fate,rock,English
+369,369,369,369,369,369,369,369,Los Angeles Times,Xzibit,rap,English
+370,370,370,370,370,370,370,370,Love Like Mine,Miami Horror,pop,English
+371,371,371,371,371,371,371,371,Ronca,Don Omar,latin,Spanish
+372,372,372,372,372,372,372,372,Get It On Tonite,Montell Jordan,r&b,English
+373,373,373,373,373,373,373,373,Boy I've Been Told,Safire,latin,English
+374,374,374,374,374,374,374,374,Ain't My Fault,Zara Larsson,pop,English
+375,375,375,375,375,375,375,375,Far Away,Nickelback,rock,English
+376,376,376,376,376,376,376,376,The Kids Are Alright - Mono/Stereo Version,The Who,rock,English
+377,377,377,377,377,377,377,377,Shakin' Off The Rust,The Blue Stones,rock,English
+378,378,378,378,378,378,378,378,Dancing On Glass,St. Lucia,pop,English
+379,379,379,379,379,379,379,379,Galway Girl,Ed Sheeran,pop,English
+380,380,380,380,380,380,380,380,Free (feat. T-Jay),GAWVI,edm,English
+381,381,381,381,381,381,381,381,Freak Like Me,Halestorm,rock,English
+382,382,382,382,382,382,382,382,Kisse Misse,Annella,edm,English
+383,383,383,383,383,383,383,383,Vice Grip,Parkway Drive,rock,English
+384,384,384,384,384,384,384,384,Show Me Love,Robin Schulz,pop,English
+385,385,385,385,385,385,385,385,If I Lose Myself - Alesso vs OneRepublic,OneRepublic,edm,English
+386,386,386,386,386,386,386,386,Rich Boy,Josh Stanley,pop,English
+387,387,387,387,387,387,387,387,Him Or Me - Edit Version,Today,r&b,English
+388,388,388,388,388,388,388,388,Love Scars,Trippie Redd,rap,English
+389,389,389,389,389,389,389,389,Stairway To Heaven,Led Zeppelin,rock,English
+390,390,390,390,390,390,390,390,Severed,The Decemberists,pop,English
+391,391,391,391,391,391,391,391,Don't Wanna Know,Maroon 5,pop,English
+392,392,392,392,392,392,392,392,Storm (feat. Kyra Mastro),Famba,edm,English
+393,393,393,393,393,393,393,393,Prettiest Virgin (Radio Edit),Agar Agar,pop,English
+394,394,394,394,394,394,394,394,Kiss You,One Direction,pop,English
+395,395,395,395,395,395,395,395,Fuentes de Ortiz,Ed Maverick,latin,Spanish
+396,396,396,396,396,396,396,396,Cold Ain't For Me,Oceans,pop,English
+397,397,397,397,397,397,397,397,Schreibe mein Schicksal,Haze,rap,German
+398,398,398,398,398,398,398,398,WANT,TAEMIN,pop,Korean
+399,399,399,399,399,399,399,399,Suave (Remix),El Alfa,latin,Spanish
+400,400,400,400,400,400,400,400,The Bottle,Hermano,rap,English
+401,401,401,401,401,401,401,401,Who's Got Your Love - Mike Williams Remix,Cheat Codes,edm,English
+402,402,402,402,402,402,402,402,Without Love,Nikka Costa,r&b,English
+403,403,403,403,403,403,403,403,Conquista,Jerau,latin,Spanish
+404,404,404,404,404,404,404,404,Take Me to Church,Hozier,pop,English
+405,405,405,405,405,405,405,405,Grillz - Dirty,Nelly,rap,English
+406,406,406,406,406,406,406,406,So Good (feat. Raekwon),Davina,r&b,English
+407,407,407,407,407,407,407,407,Seppuku (feat. Suicideboy$ & Jgrxxn),Ghostemane,rap,English
+408,408,408,408,408,408,408,408,Belief - Acoustic,John Mayer,latin,English
+409,409,409,409,409,409,409,409,Dilemma,Nelly,rap,English
+410,410,410,410,410,410,410,410,When Can I See You,Babyface,r&b,English
+411,411,411,411,411,411,411,411,Fortunate,Maxwell,r&b,English
+412,412,412,412,412,412,412,412,Bonita,J Balvin,latin,Spanish
+413,413,413,413,413,413,413,413,Dag 1,Gilli,rap,Danish
+414,414,414,414,414,414,414,414,Your Peace (feat. Lil Baby),Jacquees,r&b,English
+415,415,415,415,415,415,415,415,Trouble,Annella,edm,English
+416,416,416,416,416,416,416,416,Blood // Water,grandson,pop,English
+417,417,417,417,417,417,417,417,A las Cosas por Su Nombre,Violadores Del Verso,latin,Spanish
+418,418,418,418,418,418,418,418,Shame,Freddie Gibbs,r&b,English
+419,419,419,419,419,419,419,419,Higher (feat. Deronda K. Lewis),Twelve24,edm,English
+420,420,420,420,420,420,420,420,Light Up the Sky,Thousand Foot Krutch,rock,English
+421,421,421,421,421,421,421,421,Too Late,NIMMO,pop,English
+422,422,422,422,422,422,422,422,My Death,Scott Walker,rock,English
+423,423,423,423,423,423,423,423,All The Way,Timeflies,edm,English
+424,424,424,424,424,424,424,424,This Is What You Came For,Calvin Harris,pop,English
+425,425,425,425,425,425,425,425,Everybody Wants To Rule The World - Extended Version,Tears For Fears,pop,English
+426,426,426,426,426,426,426,426,Riot Rhythm,Sleigh Bells,rock,English
+427,427,427,427,427,427,427,427,I Saw the Light,Todd Rundgren,rock,English
+428,428,428,428,428,428,428,428,Cruel (feat. ZAYN),Snakehips,pop,English
+429,429,429,429,429,429,429,429,Love Is a Bitch,Two Feet,pop,English
+430,430,430,430,430,430,430,430,Mafo,Naira Marley,latin,English
+431,431,431,431,431,431,431,431,They Don't Know,Jon B.,r&b,English
+432,432,432,432,432,432,432,432,"Endless, a Silent Whisper",Urbandub,rock,English
+433,433,433,433,433,433,433,433,Setting Fires,The Chainsmokers,edm,English
+434,434,434,434,434,434,434,434,Money Longer,Lil Uzi Vert,rap,English
+435,435,435,435,435,435,435,435,King Harvest (Has Surely Come) - Alternate Take/Remastered,The Band,rock,English
+436,436,436,436,436,436,436,436,This Is America,Childish Gambino,pop,English
+437,437,437,437,437,437,437,437,Seele,Azet,rap,German
+438,438,438,438,438,438,438,438,Sincera,Fred De Palma,latin,Italian
+439,439,439,439,439,439,439,439,A Donde,Sentidos Opuestos,pop,Spanish
+440,440,440,440,440,440,440,440,In My Feelings,Drake,r&b,English
+441,441,441,441,441,441,441,441,Backyard Boogie,Mack 10,rap,English
+442,442,442,442,442,442,442,442,We Sink,Of Monsters and Men,pop,English
+443,443,443,443,443,443,443,443,Falling Down,Pallas,rock,English
+444,444,444,444,444,444,444,444,Estamos Arriba,Bad Bunny,rap,Spanish
+445,445,445,445,445,445,445,445,Clocks,Coldplay,pop,English
+446,446,446,446,446,446,446,446,Let The Beat Build,Lil Wayne,rap,English
+447,447,447,447,447,447,447,447,Karate,R3HAB,edm,Norwegian
+448,448,448,448,448,448,448,448,Dynamite - Original Mix,Quintino,edm,English
+449,449,449,449,449,449,449,449,Rump Shaker,Wreckx-N-Effect,r&b,English
+450,450,450,450,450,450,450,450,Hooka,Don Omar,latin,Spanish
+451,451,451,451,451,451,451,451,Song For You,Rhye,pop,English
+452,452,452,452,452,452,452,452,Can't Take My Eyes off You,Frankie Valli,r&b,English
+453,453,453,453,453,453,453,453,Bad Moon Rising,Creedence Clearwater Revival,rock,English
+454,454,454,454,454,454,454,454,Banana Pancakes,Jack Johnson,latin,English
+455,455,455,455,455,455,455,455,I Seen A Man Die,Scarface,rap,English
+456,456,456,456,456,456,456,456,Golden,Jill Scott,r&b,English
+457,457,457,457,457,457,457,457,Make It Better (feat. Smokey Robinson),Anderson .Paak,r&b,English
+458,458,458,458,458,458,458,458,One For the Money,Escape the Fate,rock,English
+459,459,459,459,459,459,459,459,All I Wanna Do,Martin Jensen,pop,English
+460,460,460,460,460,460,460,460,Ni Un Fruto,Denise Rosenthal,latin,Spanish
+461,461,461,461,461,461,461,461,Let You Know - Nathan C Remix,Flume,edm,English
+462,462,462,462,462,462,462,462,Fly By Night,Rush,rock,English
+463,463,463,463,463,463,463,463,Feel It All Around,Washed Out,pop,English
+464,464,464,464,464,464,464,464,Hold Me Now,Thompson Twins,rock,English
+465,465,465,465,465,465,465,465,entheogen,Nohidea,rap,English
+466,466,466,466,466,466,466,466,Una y Otra Vez,Manuel Medrano,latin,Spanish
+467,467,467,467,467,467,467,467,LUNA,Sick Individuals,edm,Welsh
+468,468,468,468,468,468,468,468,Bienvenidos - Live,Miguel Rios,rock,Spanish
+469,469,469,469,469,469,469,469,Rxdical Forever,Anonymuz,rap,English
+470,470,470,470,470,470,470,470,Deliriously Good,Rat City,pop,English
+471,471,471,471,471,471,471,471,Surrender,Cash Cash,edm,English
+472,472,472,472,472,472,472,472,Mayor Que Yo 3,Luny Tunes,latin,Spanish
+473,473,473,473,473,473,473,473,Vete,Khea,rap,Spanish
+474,474,474,474,474,474,474,474,Blood - Remix,Moonkey,rap,Spanish
+475,475,475,475,475,475,475,475,Sola,Luis Fonsi,latin,Spanish
+476,476,476,476,476,476,476,476,Long Road To Ruin,Foo Fighters,rock,English
+477,477,477,477,477,477,477,477,Is' mir egal,Hanybal,rap,German
+478,478,478,478,478,478,478,478,Von unten nach oben,TaiMO,rap,German
+479,479,479,479,479,479,479,479,My Small Town,Danny Boone,rap,English
+480,480,480,480,480,480,480,480,Tu Luz,Azul Violeta,pop,Spanish
+481,481,481,481,481,481,481,481,Kannste ma sehn,Baba Saad,rap,German
+482,482,482,482,482,482,482,482,Red,HyunA,edm,Korean
+483,483,483,483,483,483,483,483,If You Love Me,Brownstone,r&b,English
+484,484,484,484,484,484,484,484,Cool Blue,The Japanese House,pop,English
+485,485,485,485,485,485,485,485,Mohabbat,Kaam Bhaari,rap,Hindi
+486,486,486,486,486,486,486,486,Dooriyan,Dino James,rap,Hindi
+487,487,487,487,487,487,487,487,Bombay to Punjab,Deep Jandu,rap,Hindi
+488,488,488,488,488,488,488,488,"Muqabla (From ""Street Dancer 3D"")",Yash Narvekar,latin,Hindi
+489,489,489,489,489,489,489,489,Ki Kehna (feat. R3HAB),QARAN,latin,Hindi
+490,490,490,490,490,490,490,490,Zeher,Kaam Bhaari,rap,Hindi
+491,491,491,491,491,491,491,491,Asli Hip Hop,Ranveer Singh,rap,Hindi
+492,492,492,492,492,492,492,492,Apna Time Aayega,Ranveer Singh,rap,Hindi
+493,493,493,493,493,493,493,493,"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah,latin,Hindi
+494,494,494,494,494,494,494,494,"Shaitan Ka Saala (From ""Housefull 4"")",Sohail Sen,latin,Hindi
+495,495,495,495,495,495,495,495,Oululee Leh,Elyanna,latin,Arabic
+496,496,496,496,496,496,496,496,Filamén,Balti,latin,Arabic
+497,497,497,497,497,497,497,497,Clubber Lang,Ol Kainry,r&b,French
+498,498,498,498,498,498,498,498,Akwaba,MZ,r&b,French
+499,499,499,499,499,499,499,499,Stupéfiant,Rim'K,r&b,French
+500,500,500,500,500,500,500,500,Je m'en vais,Cali,rock,French
+501,501,501,501,501,501,501,501,Molly,Ixzo,r&b,French
+502,502,502,502,502,502,502,502,Un autre que moi,Fishbach,pop,French
+503,503,503,503,503,503,503,503,Ego - Radio Edit,Willy William,rap,French
+504,504,504,504,504,504,504,504,The Boxer,Simon & Garfunkel,rock,French
+505,505,505,505,505,505,505,505,Toi sur moi,MZ,r&b,French
+506,506,506,506,506,506,506,506,Summer Girl,HAIM,pop,French
+507,507,507,507,507,507,507,507,Pookie (feat. Capo Plaza) - Remix,Aya Nakamura,rap,French
+508,508,508,508,508,508,508,508,Mwaka Moon - Remix,Kalash,rap,French
+509,509,509,509,509,509,509,509,Cellophané,Rim'K,r&b,French
+510,510,510,510,510,510,510,510,Laisse aller,Nekfeu,r&b,French
+511,511,511,511,511,511,511,511,Moi Lolita (feat. OT),Palm Trees,latin,French
+512,512,512,512,512,512,512,512,Pookie (feat. Lil Pump) - Remix,Aya Nakamura,rap,French
+513,513,513,513,513,513,513,513,Débrouillard,Damso,r&b,French
+514,514,514,514,514,514,514,514,Maddy La Nuit,Flavien Berger,edm,French
+515,515,515,515,515,515,515,515,Everyday,Rim'K,r&b,French
+516,516,516,516,516,516,516,516,Trappes,La Fouine,r&b,French
+517,517,517,517,517,517,517,517,Canopée,Polo & Pan,latin,French
+518,518,518,518,518,518,518,518,Mortel,Fishbach,pop,French
+519,519,519,519,519,519,519,519,Hookah,Ol Kainry,r&b,French
+520,520,520,520,520,520,520,520,Distant,Maes,latin,French
+521,521,521,521,521,521,521,521,Stellar,Sansixto,edm,French
+522,522,522,522,522,522,522,522,J'veux un mec - Marlon B,Adrienne Pauly,rock,French
+523,523,523,523,523,523,523,523,Air Max,Rim'K,r&b,French
+524,524,524,524,524,524,524,524,Dilemme,Lous and The Yakuza,r&b,French
+525,525,525,525,525,525,525,525,Toi Et Moi,Paradis,rock,French
+526,526,526,526,526,526,526,526,Rayonnons,Jarod,r&b,French
+527,527,527,527,527,527,527,527,Voodoo Song - Radio Edit,Willy William,pop,French
+528,528,528,528,528,528,528,528,Que Le De - Remix,Rauw Alejandro,latin,French
+529,529,529,529,529,529,529,529,Oto Moto,Disiz La Peste,r&b,French
+530,530,530,530,530,530,530,530,Bando,Kalash,r&b,French
+531,531,531,531,531,531,531,531,La Vie - Gabry Ponte Mix,DJ Ross,pop,French
+532,532,532,532,532,532,532,532,40%,Aya Nakamura,latin,French
+533,533,533,533,533,533,533,533,Oublie Moi,Riké,rock,French
+534,534,534,534,534,534,534,534,Argent sale,La Fouine,r&b,French
+535,535,535,535,535,535,535,535,Matador,Mickey 3d,rock,French
+536,536,536,536,536,536,536,536,Vaivén,Daddy Yankee,latin,French
+537,537,537,537,537,537,537,537,Yoohoo,Dusky,edm,French
+538,538,538,538,538,538,538,538,Ne reviens pas,Gradur,latin,French
+539,539,539,539,539,539,539,539,MD - Radio Edit,MZ,r&b,French
+540,540,540,540,540,540,540,540,Loser,Plastiscines,rock,French
+541,541,541,541,541,541,541,541,Terminus,La Fouine,r&b,French
+542,542,542,542,542,542,542,542,Starry Night,Mamamoo,pop,French
+543,543,543,543,543,543,543,543,Rentlé dédans,Ol Kainry,r&b,French
+544,544,544,544,544,544,544,544,Monster,Rim'K,r&b,French
+545,545,545,545,545,545,545,545,Alien,Rim'K,r&b,French
+546,546,546,546,546,546,546,546,On vit d'amour,Jean-Louis Aubert,rock,French
+547,547,547,547,547,547,547,547,Lidl,MZ,r&b,French
+548,548,548,548,548,548,548,548,Alors On Danse - Radio Edit,Stromae,rap,French
+549,549,549,549,549,549,549,549,Pause,MZ,r&b,French
+550,550,550,550,550,550,550,550,Deuboukéhi,MZ,r&b,French
+551,551,551,551,551,551,551,551,Martin Eden,Nekfeu,r&b,French
+552,552,552,552,552,552,552,552,BDK (feat. Gilli),KESI,rap,French
+553,553,553,553,553,553,553,553,Bangala,Ol Kainry,r&b,French
+554,554,554,554,554,554,554,554,La piscine (Voilaaa Remix),Hypnolove,edm,French
+555,555,555,555,555,555,555,555,Recto Verso,Paradis,pop,French
+556,556,556,556,556,556,556,556,La vie en rose,Zaz,latin,French
+557,557,557,557,557,557,557,557,Mon ami,Still Fresh,r&b,French
+558,558,558,558,558,558,558,558,Les limites,Julien Doré,rock,French
+559,559,559,559,559,559,559,559,Dance X,Gesaffelstein,edm,French
+560,560,560,560,560,560,560,560,Bandito,Enzo Dong,rap,Italian
+561,561,561,561,561,561,561,561,Magnifico difetto,Benji & Fede,r&b,Italian
+562,562,562,562,562,562,562,562,Lento,Boro Boro,r&b,Italian
+563,563,563,563,563,563,563,563,Bidi Bidi Bom Bom,Selena,latin,Italian
+564,564,564,564,564,564,564,564,blun7 a swishland,tha Supreme,rap,Italian
+565,565,565,565,565,565,565,565,Il tuo profumo,Fred De Palma,r&b,Italian
+566,566,566,566,566,566,566,566,"La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)",Takagi & Ketra,r&b,Italian
+567,567,567,567,567,567,567,567,Dalla tua parte,Alessandra Amoroso,r&b,Italian
+568,568,568,568,568,568,568,568,Porto Cervo,Lazza,rap,Italian
+569,569,569,569,569,569,569,569,Bassotto,Dark Polo Gang,rap,Italian
+570,570,570,570,570,570,570,570,Pensare Male (con Elodie),The Kolors,r&b,Italian
+571,571,571,571,571,571,571,571,Turbococco,Ghali,r&b,Italian
+572,572,572,572,572,572,572,572,Arrogante,Irama,r&b,Italian
+573,573,573,573,573,573,573,573,La differenza,Gianna Nannini,r&b,Italian
+574,574,574,574,574,574,574,574,LOVE BANDANA,Ketama126,rap,Italian
+575,575,575,575,575,575,575,575,Vento sulla luna (feat. Rkomi),Annalisa,r&b,Italian
+576,576,576,576,576,576,576,576,LA MIA ULTIMA STORIA,AIELLO,r&b,Italian
+577,577,577,577,577,577,577,577,Nonno Hollywood,Enrico Nigiotti,r&b,Italian
+578,578,578,578,578,578,578,578,Rondini Al Guinzaglio,Ultimo,r&b,Italian
+579,579,579,579,579,579,579,579,Barrio,Mahmood,r&b,Italian
+580,580,580,580,580,580,580,580,La ragazza con il cuore di latta,Irama,r&b,Italian
+581,581,581,581,581,581,581,581,Senza Pensieri (feat. Loredana Bertè & J-AX),Fabio Rovazzi,r&b,Italian
+582,582,582,582,582,582,582,582,Non Avere Paura,Tommaso Paradiso,r&b,Italian
+583,583,583,583,583,583,583,583,Gucci Fendi Prada,Merk & Kremont,edm,Italian
+584,584,584,584,584,584,584,584,Soldi in Nero - feat. Sfera Ebbasta,Shiva,rap,Italian
+585,585,585,585,585,585,585,585,Accetto Miracoli,Tiziano Ferro,r&b,Italian
+586,586,586,586,586,586,586,586,Stanza Singola (feat. Tommaso Paradiso),Franco126,r&b,Italian
+587,587,587,587,587,587,587,587,Metropolis - 2009 Remastered Version,Kraftwerk,pop,Italian
+588,588,588,588,588,588,588,588,SCACCIACANI - prod. Crookers & Nic Sarno,Ketama126,rap,Italian
+589,589,589,589,589,589,589,589,Uebe (feat. Boro Boro),Fred De Palma,r&b,Italian
+590,590,590,590,590,590,590,590,Ho Fatto Strada,Capo Plaza,rap,Italian
+591,591,591,591,591,591,591,591,MAI (feat. Lele Blade & Fred De Palma),Giaime,rap,Italian
+592,592,592,592,592,592,592,592,Mademoiselle,Sfera Ebbasta,r&b,Italian
+593,593,593,593,593,593,593,593,Io Sono Bella,Emma,r&b,Italian
+594,594,594,594,594,594,594,594,Follia Del Mattino,Vegas Jones,rap,Italian
+595,595,595,595,595,595,595,595,Soldi,Mahmood,r&b,Italian
+596,596,596,596,596,596,596,596,No More,Dannic,edm,Italian
+597,597,597,597,597,597,597,597,Mea Muri Tu (feat. MV Killa & Yung Snapp),Vale Lambo,rap,Italian
+598,598,598,598,598,598,598,598,Amanda Lear,Baustelle,pop,Italian
+599,599,599,599,599,599,599,599,Ostia Lido,J-AX,r&b,Italian
+600,600,600,600,600,600,600,600,Tutto Questo Sei Tu,Ultimo,r&b,Italian
